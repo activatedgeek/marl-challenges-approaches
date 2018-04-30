@@ -1,0 +1,11 @@
+.DS_Store
+
+# LaTex Generated Files
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.out
+*.toc
+*.pdf
